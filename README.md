@@ -2,7 +2,13 @@
 
 ## root config project
 
-Start project
+Move to root-config folder
+
+```
+cd root-config
+```
+
+Install libraries
 
 ```
 npm install
